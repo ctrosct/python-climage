@@ -49,3 +49,4 @@ run the checks::
 To build a source tarball for distribution (see 'dist' directory after)::
 
     python setup.py sdist
+
