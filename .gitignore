@@ -7,3 +7,5 @@ dist
 climage.egg-info
 test_blob
 test_image_bad
+python-climage/.gitignore
+python-climage/.gitignore
